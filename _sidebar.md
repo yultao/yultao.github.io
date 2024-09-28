@@ -1,15 +1,3 @@
-# LeetCode笔记
-
-[comment]: <> (- 作者： [GT]&#40;https://martin.kleppmann.com&#41;)
-
-[comment]: <> (- 原名：[《Designing Data-Intensive Applications》]&#40;http://shop.oreilly.com/product/0636920032175.do&#41;)
-
-[comment]: <> (- 译者：[冯若航]&#40;https://vonng.com&#41; （[@Vonng]&#40;https://vonng.com/en/&#41;）)
-
-[comment]: <> (- 校订： [@yingang]&#40;https://github.com/yingang&#41;)
-
-[comment]: <> (- 繁体：[繁體中文版本]&#40;zh-tw/README.md&#41; by  [@afunTW]&#40;https://github.com/afunTW&#41;)
-
 - [序言](preface.md)
 - [第一部分：数据结构](part-i.md)
   - [第1.1章：Array](/ch1.1.md)
@@ -83,6 +71,7 @@
     - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](/files/1343.md)
   - [第2.7章：水库抽样](ch2.7.md)
   - [第2.8章：双指针](ch2.8.md)
+    - [11. Container With Most Water | M-380 | v](/files/11.md)
     - [42. Trapping Rain Water | M-41 | v](/files/42.md)
     - [88. Merge Sorted Array | M-54 | v](/files/88.md)
   - [第2.9章：Sorting](ch2.9.md)
